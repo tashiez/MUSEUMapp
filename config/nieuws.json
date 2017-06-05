@@ -1,0 +1,75 @@
+{
+    "nieuws":
+    [
+        {
+            "titel": "Ila Bêka, Louise Lemoine. <br> The Infinite Happiness. 2015",
+            "id": 212,
+            "categorieen": "Architecture and Design",
+            "body": "<p>Medium: Video (color, sound). <br>Duration: 1 hrs., 25 min. <br>Credit: Gift of Andrea Woodner. <br>Object number: 132.2016. <br>Copyright: © 2017 Bêka & Lemoine.</p>",
+            "afbeeldings": "artikel1.jpg"
+        },
+        {
+            "titel": "Ila Bêka, Louise Lemoine. <br> Barbicania. 2014",
+            "id": 210,
+            "categorieen": "Architecture and Design",
+            "body": "<p>Medium: Video (color, sound). <br> Duration: 90 min.<br>  Credit: Gift of Andrea Woodner. <br> Object number: 128.2016.<br>  Copyright: © 2017 Bêka & Lemoine.</p>",
+            "afbeeldings": "artikel2.jpg"
+        },
+        {
+            "titel": "Ed Atkins. <br>Warm, Warm, Warm Spring Mouths. 2013",
+            "id": 198,
+            "categorieen": "Media and Performance Art",
+            "body": "<p>Medium: Video (color, sound). <br> Duration: 12:50 min. <br> Credit: Fund for the Twenty-First Century. <br> Object number: 632.2013. <br> Copyright: © 2017 Ed Atkins.</p>",
+            "afbeeldings": "artikel3.jpg"
+        },
+        {
+            "titel": "Mati Diop. <br>Atlantiques (prelude)/Mille soleils. 2009/2013",
+            "id": 219,
+            "categorieen": "Film",
+            "body": "<p>Medium: Digital cinema. <br> Credit: Purchase from the Artist. Funds provided by The Fund for the Twenty-First Century. <br> Object number: F2016.74.</p>",
+            "afbeeldings": "artikel4.jpg"
+        },
+        {
+            "titel": "Baz Luhrmann. <br>The Great Gatsby. 2013",
+            "id": 215,
+            "categorieen": "Film",
+            "body": "<p>Medium: 35mm film. <br> Credit: Gift of Warner Bros.<br>  Object number: F2014.87.</p>",
+            "afbeeldings": "artikel5.jpg"
+        },
+        {
+            "titel": "Lynne Sachs. Your Day is My Night. 2013",
+            "id": 193,
+            "categorieen": "Film",
+            "body": "<p>Medium: Digital cinema (color, sound). <br> Duration: 64 min. <br> Credit: Gift of the Artist. <br> Object number: F2014.114.</p>",
+            "afbeeldings": "artikel6.jpg"
+        },
+        {
+            "titel": "Hito Steyerl. How Not to Be Seen: <br>A Fucking Didactic Educational .MOV File. 2013",
+            "id": 193,
+            "categorieen": "Media and Performance Art",
+            "body": "<p>Medium: Video (color, sound. <br> Duration: 14 min.<br> Credit: Committee on Media and Performance Art Funds. <br> Object number: 219.2014. <br> Copyright: © 2017 Hito Steyerl</p>",
+            "afbeeldings": "artikel7.jpg"
+        },
+        {
+            "titel": "Ila Bêka, Louise Lemoine. <br>L’Expérience du vide. 2014",
+            "id": 193,
+            "categorieen": "Architecture and Design",
+            "body": "<p>Medium: Video (color, sound). <br>Duration: 45 min. <br>Credit: Gift of Andrea Woodner<br>Object number: 129.2016<br>Copyright: © 2017 Bêka & Lemoine</p>",
+            "afbeeldings": "artikel8.jpg"
+        },
+        {
+            "titel": "Ragnar Kjartansson. <br>The Visitors. 2012",
+            "id": 193,
+            "categorieen": "Media and Performance Art",
+            "body": "<p>Medium: Nine-channel video (color, sound).<br> Duration: 64 min.<br>Credit: Jointly owned by The Museum of Modern Art, New York and the San Francisco Museum of Modern Art, acquired through the generosity of Mimi Haas and Helen Schwab.<br>Object number: 636.2013.a-i.<br>Copyright: © 2017 Ragnar Kjartansson. Courtesy of the artist, Luhring Augustine, New York, and i8 Gallery, Reykjavik. Photo: Elísabet Davids</p>",
+            "afbeeldings": "artikel9.jpg"
+        },
+        {
+            "titel": "Cristobal Palma, Pezo von Ellrichshausen<br>Cien House, Concepción, Chile. 2012",
+            "id": 193,
+            "categorieen": "Architecture and Design",
+            "body": "<p>Medium: Digital video (color, sound). <br>Duration: 4 min., 10 sec.<br>Credit: Fund for the Twenty-First Century.<br>Object number: 341.2014<br></p>",
+            "afbeeldings": "artikel10.jpg"
+        }
+    ]
+}
